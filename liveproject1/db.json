@@ -1,0 +1,577 @@
+{
+  "totaldetail" : [
+    {
+      "id": 1,
+      "title": "Coffee at Home",
+      "price": 109.95,
+      "description": "The Ratio Six White Paper",
+      "category": "men's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Iced-Coffee-Journal-41_800x550_crop_center.jpg?v=1718998156",
+      "rating" : 3.9
+    },
+    {
+      "id": 2,
+      "title": "Ratio Products ",
+      "price": 22.3,
+      "description": "We’ve been working on a new coffee maker....",
+      "category": "men's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/ratio-four-hero_800x550_crop_center.jpg?v=1698874995",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cafe Culture",
+      "price": 55.99,
+      "description": "Creating a Career in Coffee with Jesse Raub",
+      "category": "men's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/DSCF1151_800x550_crop_center.jpg?v=1709833137",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Coffee Guides",
+      "price": 15.99,
+      "description": "Adjusting your grind",
+      "category": "men's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Ratio-Kone-by-Able-756x630_800x550_crop_center.jpg?v=1558467842",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "Ratio Products",
+      "price": 695,
+      "description": "Ratio Six Available Internationally",
+      "category": "jewelery",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/2020-0921_ratio-eight_ratio-six-automatic-pour-over-coffee-maker_family_silo_ty-mecham_800x550_crop_center.jpg?v=1602638174",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Cafe Culture ",
+      "price": 168,
+      "description": "How to Capture Flavor: A Conversation with Northshore Coffee’s Trey Malone",
+      "category": "jewelery",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/DSC06009_800x550_crop_center.jpg?v=1704413124",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Cafe Culture",
+      "price": 9.99,
+      "description": "The Extremely Colorful Mary Carroll Interview",
+      "category": "jewelery",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/CarterHiyama_Ratio-8_800x550_crop_center.jpg?v=1702411959",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Cafe Culture",
+      "price": 10.99,
+      "description": "Tyler Hagan has found the common thread in the world of coffee: community",
+      "category": "jewelery",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/IMG_8289_800x550_crop_center.jpg?v=1701891549",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "In the News ",
+      "price": 64,
+      "description": "Sprudge: Get Ratioed With The Compact New Ratio Four Brewer",
+      "category": "electronics",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/ratio-four-14_800x550_crop_center.jpg?v=1698856364",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "Cafe Culture",
+      "price": 109,
+      "description": "Ratio x Coffee Manufactory",
+      "category": "electronics",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Screenshot_2023-09-26_at_1.51.09_PM_800x550_crop_center.png?v=1697201382",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Cafe Culture",
+      "price": 109,
+      "description": "The Value of Roasting with Elevator Coffee",
+      "category": "electronics",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/PXL_20231020_132410488_800x550_crop_center.jpg?v=1698365998",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "In the News",
+      "price": 114,
+      "description": "Rolling Stone: Turn your cup of Joe into a cup of Joseph",
+      "category": "electronics",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Central_Office_Lucas_Korynta_Ratio_Eight_Silver_7_800x550_crop_center.jpg?v=1696994174",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "In the News",
+      "price": 599,
+      "description": "Serious Eats: 'A Game-Changing Automatic Drip Coffee Maker'",
+      "category": "electronics",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Screen_Shot_2023-07-16_at_11.52.02_PM_1_800x550_crop_center.jpg?v=1694462313",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "In the News ",
+      "price": 999.99,
+      "description": "Ratio Eight in the WSJ",
+      "category": "electronics",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Screenshot_2023-07-12_at_2.05.05_PM_800x550_crop_center.png?v=1689290646",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "",
+      "price": 56.99,
+      "description": "It Comes With a View",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Insta-IMG_5119_copy_800x550_crop_center.jpg?v=1582069722",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Coffee at Home",
+      "price": 29.95,
+      "description": "Stoking Creativity",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Tezza-0021_800x550_crop_center.jpg?v=1687199334",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "In the News",
+      "price": 39.99,
+      "description": "I’ve Tried Dozens of Coffee Makers, but This Is the One I Return to Every Time",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/Ratio-Eight-Dark-Cobalt-3_800x550_crop_center.jpg?v=1685580566",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "Ratio Products",
+      "price": 9.85,
+      "description": "It’s worth the wait.",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/005_LBE_x_Ratio_x_NathanMichael_800x550_crop_center.jpg?v=1684522700",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Cafe Culture",
+      "price": 7.95,
+      "description": "‘If it’s not now, it’s gonna be never’",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/IMG_0948_800x550_crop_center.jpg?v=1681511970",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "In the News",
+      "price": 12.99,
+      "description": "Serious Eats Reviews the Ratio Six",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/ratio6-black-detail-B1_2_800x550_crop_center.jpg?v=1681948247",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 21,
+      "title": "Cafe Culture",
+      "price": 7.95,
+      "description": "Coffee in Paris with Télescope Café",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/IMG_0948_800x550_crop_center.jpg?v=1681511970",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 22,
+      "title": "In the News",
+      "price": 7.95,
+      "description": "Epicurious Review: Favorite Drip Coffee Maker",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/2020-0918_ratio-eight_automatic-pour-over-coffee-maker_stainless_1x1_ty-mecham_800x550_crop_center.jpg?v=1676503033",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 23,
+      "title": "Cafe Culture",
+      "price": 7.95,
+      "description": "Finding the Rhythm of Coffee with Three Keys",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/IG_DSCF0453_800x550_crop_center.jpg?v=1676417562",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 24,
+      "title": "Ratio Products",
+      "price": 7.95,
+      "description": "Check Out The Big Brain on Brad",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/articles/01DD7BBF-6499-420B-A377-77D0F335F224_219af7b4-9935-42a7-be75-bd9aa964da05_800x550_crop_center.jpg?v=1676057899",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    }
+  ],
+  "det" : [
+    {
+      "id": 34,
+      "title": "ONE CUP WONDER",
+      "price": 12.99,
+      "description": "Ratio Four Coffee Machine",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/files/ratio-four-2_540x.jpg?v=1705959009",
+      "order" : "Pre-order Four"
+    },
+    {
+      "id": 35,
+      "title": "ONE CUP WONDER",
+      "price": 12.99,
+      "description": "Ratio Four Coffee Machine",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/products/ratio6-black-A3_7f3d3fc4-7d12-4aa4-a809-62746b73af24_540x.jpg?v=1675189304",
+     "order" : "Shop Six"
+    },
+    {
+      "id": 36,
+      "title": "ONE CUP WONDER",
+      "price": 12.99,
+      "description": "Ratio Four Coffee Machine",
+      "category": "women's clothing",
+      "image": "https://ratiocoffee.com/cdn/shop/products/ratio8-white-walnut-glass-A2_ec9add25-30ff-46d7-9ff8-9389fae5e6eb_540x.jpg?v=1629843557",
+       "order" : "Shop Eight"
+    }
+
+  ],
+  "slide":[
+    { "image": "https://ratiocoffee.com/cdn/shop/files/RATIO-Proud-Mary-Nolan-Hirte-09_1080x.jpg?v=1635799124", "title": "Slide 1" },
+    { "image": "https://ratiocoffee.com/cdn/shop/files/RATIO-Proud-Mary-Nolan-Hirte-09_1080x.jpg?v=1635799124", "title": "Slide 2" }
+],
+"productdetails" :  [
+  {
+    "id": 1,
+    "title": "Ratio Eight Thermal Carafe & Dripper",
+    "price": 125.95,
+    "description": "The Ratio Six White Paper",
+    "category": "men's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/ratio6-black-A3_7f3d3fc4-7d12-4aa4-a809-62746b73af24_540x.jpg?v=1675189304",
+    "review" : "(101 Reviews)"
+  },
+  {
+    "id": 2,
+    "title": "Ratio Six Thermal Carafe (Series 2) ",
+    "price": 75.3,
+    "description": "We’ve been working on a new coffee maker....",
+    "category": "men's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/files/2024-02-09_AbleBrewing_6876_360x.jpg?v=1711043311",
+   "review": "(94 Reviews)"
+  },
+  {
+    "id": 3,
+    "title": "Ratio Glass Carae",
+    "price": 58.99,
+    "description": "Creating a Career in Coffee with Jesse Raub",
+    "category": "men's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/files/RatioSmokedGlassCarafe5_2_360x.jpg?v=1709061014",
+    "review":"(70 Reviews)"
+  },
+  {
+    "id": 4,
+    "title": "Kone Reusable Coffee Filter by Able Brewing ",
+    "price": 39.99,
+    "description": "Adjusting your grind",
+    "category": "men's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/Able-Kone-C1_360x.jpg?v=1589487153",
+    "review":"(90 Reviews)"
+  },
+  {
+    "id": 5,
+    "title": "Able Basket Coffee Filter for Ratio Six ",
+    "price": 34.50,
+    "description": "Ratio Six Available Internationally",
+    "category": "jewelery",
+    "image": "https://ratiocoffee.com/cdn/shop/files/AbleBasketFilterJan202312301_360x.jpg?v=1687459285",
+    "review":"(38 Reviews)"
+  },
+  {
+    "id": 6,
+    "title": "Chemex Paper Filters for Ratio Eight ",
+    "price": 11,
+    "description": "How to Capture Flavor: A Conversation with Northshore Coffee’s Trey Malone",
+    "category": "jewelery",
+    "image": "https://ratiocoffee.com/cdn/shop/products/chemex-filters_2_360x.jpg?v=1561680044",
+     "review":"(42 Reviews)"
+  },
+  {
+    "id": 7,
+    "title": "Ratio Six Basket Paper Filters (100 Count)",
+    "price": 10.99,
+    "description": "The Extremely Colorful Mary Carroll Interview",
+    "category": "jewelery",
+    "image": "https://ratiocoffee.com/cdn/shop/products/Z-oNrxocpEx_360x.jpg?v=1581557558",
+     "review":"(44 Reviews)"
+  },
+  {
+    "id": 8,
+    "title": "Fellow Ode Gen 2 Brew Grinder",
+    "price": 345.99,
+    "description": "Tyler Hagan has found the common thread in the world of coffee: community",
+    "image": "https://ratiocoffee.com/cdn/shop/products/bYStF_360x.png?v=1669247547",
+    "category": "jewelery",
+    "review":"(44 Reviews)"
+  },
+  {
+    "id": 9,
+    "title": "Baratza Virtuoso+ Coffee Grinder ",
+    "price": 249,
+    "description": "Sprudge: Get Ratioed With The Compact New Ratio Four Brewer",
+    "category": "electronics",
+    "image": "https://ratiocoffee.com/cdn/shop/products/uigfVyYRkyToxRmzmbWA_Virt_Plus_5_360x.jpg?v=1562091094",
+    "review":"(11 Reviews)"
+  },
+  {
+    "id": 10,
+    "title": "Baratza Encore Coffee Grinder",
+    "price": 149,
+    "description": "Ratio x Coffee Manufactory",
+    "category": "electronics",
+    "image": "https://ratiocoffee.com/cdn/shop/products/black-encore-grinder-frontAccessories_360x.jpg?v=1628633903",
+    "review":"(38 Reviews)"
+  },
+  {
+    "id": 11,
+    "title": "Baratza Forte BG Coffee Grinder",
+    "price": 899,
+    "description": "The Value of Roasting with Elevator Coffee",
+    "category": "electronics",
+    "image": "https://ratiocoffee.com/cdn/shop/files/ZCG1086_Carousel1_360x.png?v=1699393702",
+     "review":"(32 Reviews)"
+  },
+  {
+    "id": 12,
+    "title": "Fellow Stagg EKG Electric Kettle",
+    "price": 114,
+    "description": "Rolling Stone: Turn your cup of Joe into a cup of Joseph",
+    "category": "electronics",
+    "image": "https://ratiocoffee.com/cdn/shop/products/Black-Stagg-EKG-wood-handle-hero-shot_360x.jpg?v=1619543706",
+    "review":"(5 Reviews)"
+  },
+  {
+    "id": 13,
+    "title": "Fellow Tally Pro Precision Scale ",
+    "price": 185,
+    "description": "Serious Eats: 'A Game-Changing Automatic Drip Coffee Maker'",
+    "category": "electronics",
+    "image": "https://ratiocoffee.com/cdn/shop/files/Tally-TopDownScreenOn_360x.png?v=1686074285",
+     "review":"(38 Reviews)"
+  },
+  {
+    "id": 14,
+    "title": "Ratio Eight Dripper ",
+    "price": 28.99,
+    "description": "Ratio Eight in the WSJ",
+    "category": "electronics",
+    "image": "https://ratiocoffee.com/cdn/shop/products/dripper-white-top_360x.jpg?v=1628809144",
+     "review":"(18 Reviews)"
+  },
+  {
+    "id": 15,
+    "title": "Ratio Eight Catcher",
+    "price": 12.00,
+    "description": "It Comes With a View",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/dripper-white-E1_360x.jpg?v=1584482813",
+    "review":"(17 Reviews)"
+  },
+  {
+    "id": 16,
+    "title": "Hearth Coffee Cup (Set of 2)",
+    "price": 21.95,
+    "description": "Stoking Creativity",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/240ml_angled_900x_dfbd327d-9c0f-49f5-b06e-1d6d6a988c32_360x.jpg?v=1628808775",
+    "review":"(18 Reviews)"
+  },
+  {
+    "id": 17,
+    "title": "notNeutral LINO Coffee Mug",
+    "price": 18.00,
+    "description": "I’ve Tried Dozens of Coffee Makers, but This Is the One I Return to Every Time",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/lino_mug_gray_360x.jpg?v=1628809001",
+   "review":"(32 Reviews)"
+  },
+  {
+    "id": 18,
+    "title": "notNeutral Vero Cappuccino Cup(Smoke)",
+    "price": 22.50,
+    "description": "It’s worth the wait.",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/utjsXraTYyeqT79RkNJ1_Smoked-Glass-Cortado-Side_360x.jpg?v=1561746584",
+     "review":"(6 Reviews)"
+  },
+  {
+    "id": 19,
+    "title": "Ratio x Fellow Atmos Coffee canister",
+    "price": 40.00,
+    "description": "‘If it’s not now, it’s gonna be never’",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/atmos-canister-black-A2_360x.jpg?v=1637090763",
+     "review":"(20 Reviews)"
+  },
+  {
+    "id": 20,
+    "title": "Ratio x Fellow Carter Move Mug",
+    "price": 27.50,
+    "description": "Serious Eats Reviews the Ratio Six",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/carter-mug-grey-C1-productpage_360x.jpg?v=1637090493",
+     "review":"(1 Reviews)"
+  },
+  {
+    "id": 21,
+    "title": "Ratio Six Flat Bottom Brew Basket Set",
+    "price": 30.00,
+    "description": "Coffee in Paris with Télescope Café",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/ratio6-basket-flat-black-B1_360x.jpg?v=1661451425",
+    "review":"(5 Reviews)"
+  },
+  {
+    "id": 22,
+    "title": "Umex - Cleaning Powder Packets",
+    "price": 2.95,
+    "description": "Epicurious Review: Favorite Drip Coffee Maker",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/able-cleaner-B1_360x.jpg?v=1636565454",
+     "review":"(7 Reviews)"
+  },
+  {
+    "id": 23,
+    "title": "Halefresh Machine Wash",
+    "price": 15.00,
+    "description": "Finding the Rhythm of Coffee with Three Keys",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/files/halefresh-descaling-solution-back_360x.jpg?v=1689885162",
+   "review":"(5 Reviews)"
+  },
+  {
+    "id": 24,
+    "title": "Gift Card",
+    "price": 25.00,
+    "description": "Check Out The Big Brain on Brad",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/gift-card_360x.png?v=1575398343",
+  "review":"(5 Reviews)"
+  },
+  {
+    "id": 25,
+    "title": "Airscape Glass Cofanister",
+    "price": 36.00,
+    "description": "Finding the Rhythm of Coffee with Three Keys",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/files/AirscapeGlassKitchenCanister_bamboolid__AGW07__02_1_360x.jpg?v=1709924678",
+   "review":"(1 Reviews)"
+  },
+  {
+    "id": 26,
+    "title": "Ratio Six Thermal Carafe - Series 1",
+    "price": 39.00,
+    "description": "Finding the Rhythm of Coffee with Three Keys",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/products/ratio6-carafe-stainless-A3_360x.jpg?v=1634055373",
+   "review":"(40 Reviews)"
+  },
+  {
+    "id": 27,
+    "title": "Ratio x notNeutral  Demitasse Cup",
+    "price": 15.00,
+    "description": "Finding the Rhythm of Coffee with Three Keys",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/files/pico-demitasse-natural_360x.png?v=1720477000",
+   "review":"(15 Reviews)"
+  },
+  {
+    "id": 28,
+    "title": "Ratio x notNeutral  Pico Coffee Cup",
+    "price": 19.00,
+    "description": "Finding the Rhythm of Coffee with Three Keys",
+    "category": "women's clothing",
+    "image": "https://ratiocoffee.com/cdn/shop/files/RATIO-NotNeutral-Pico-Mug-High-Res-08_360x.jpg?v=1716329787",
+   "review":"(15 Reviews)"
+  }
+]
+}
